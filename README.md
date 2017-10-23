@@ -24,7 +24,7 @@ Tapirus bairdii  | טפיר בירדי
 Tapirus pinchaque | טפיר הרים
 Tapirus terrestris | טפיר ברזילאי
 Tapirus indicus | טפיר אסייתי
-Tapirus kabomani | טפיר קבומדי
+Tapirus kabomani | טפיר קבומני
 
 
 
