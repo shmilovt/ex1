@@ -11,6 +11,13 @@ The bibliography has been taken from wikipedia. [go to tapir in wikipedia](https
 7. Under good conditions, a healthy female tapir can reproduce every two years; a single young, called a calf, is born after a gestation      of about 13 months.
 8. The natural lifespan of a tapir is about 25 to 30 years.
 
+## Tapirs inhabit jungle and forest regions of
+- South America
+- Central America
+- Southeastern Asia
+
+
+
  
 
 
