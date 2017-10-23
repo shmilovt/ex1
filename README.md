@@ -16,6 +16,8 @@ The bibliography has been taken from wikipedia. [go to tapir in wikipedia](https
 - Central America
 - Southeastern Asia
 
+![Image of Tapir](/images/Tapir.jpg)
+
 
 
  
