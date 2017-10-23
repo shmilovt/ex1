@@ -18,6 +18,14 @@ The bibliography has been taken from wikipedia. [go to tapir in wikipedia](https
 
 ![Image of Tapir](/images/Tapir.jpg)
 
+species | מינים
+-------|--------
+Tapirus bairdii  | טפיר בירדי
+Tapirus pinchaque | טפיר הרים
+Tapirus terrestris | טפיר ברזילאי
+Tapirus indicus | טפיר אסייתי
+Tapirus kabomani | טפיר קבומדי
+
 
 
  
